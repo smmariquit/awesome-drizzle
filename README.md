@@ -7,3 +7,7 @@ This repository collects links to great ressources (extenstions, packages, tutor
 * [Drizzle Plus](https://github.com/alloc/drizzle-plus/): A collection of useful utilities and extensions for Drizzle ORM.
 * [Drizzle Toolbelt](https://github.com/fredericoo/drizzle-toolbelt)
 * [Drizzle Transaction Context](https://github.com/nickdeis/drizzle-transaction-context): Implicit and execution scoped transactions/savepoints for drizzle-orm
+
+## Projects
+
+* [Room TBA](https://github.com/uplbtools/room-tba): Open-source UPLB campus map PWA using Drizzle with Supabase (server) and PGlite (browser offline sync). Live at https://room-tba.uplbtools.me
